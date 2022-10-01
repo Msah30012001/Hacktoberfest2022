@@ -1,3 +1,3 @@
 <?php
-    mysqli_connect("localhost","root","","couponday");
+    $conn = mysqli_connect("localhost","root","","couponday");
 ?>
